@@ -16,5 +16,5 @@
     ]
 
     greetings.each do |greeting|
-      Greeting.create(content: greeting)
+      Greeting.create(greeting: greeting)
     end
