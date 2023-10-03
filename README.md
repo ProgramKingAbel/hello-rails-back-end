@@ -23,7 +23,7 @@
 
 **hello-rails-back-end app:** This project incorporates a Ruby on Rails API app with PostgreSQL database as a back end app to a  react and redux  front end APP. It serves data and responds to its frontend in JSON.
 
-Front End React-redux app link 
+### [Hello Rails Front End React-redux app located here ](https://github.com/ProgramKingAbel/hello-react-front-end/pull/1)
 
 ## 🛠 Built With <a name="built-with"></a>
 
