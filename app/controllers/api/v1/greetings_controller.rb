@@ -1,6 +1,6 @@
 class Api::V1::GreetingsController < ApplicationController
   def random
-     @random_message = Greeting.order('RANDOM()').first
+    @random_message = Greeting.order('RANDOM()').first
     if @random_message
       render json: { greeting: @random_message.greeting }
     else
